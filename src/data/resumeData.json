@@ -107,19 +107,19 @@
         {
           "title" : "URLshortner",
           "category" : "MEAN stack",
-          "image" : "urlshortner.jpg",
+          "image" : "urlshortner.JPG",
           "url" : "http://ashiqurl.netlify.com/",
           "gitLink" : "https://github.com/ashiqcvcv/urlshortnerangular"
       },{
           "title" : "DBless chat-app",
           "category" : "MEAN Stack",
-          "image" : "chatapp.jpg",
+          "image" : "chatapp.JPG",
           "url" : "https://anonymchat.netlify.app/",
           "gitLink" : "https://github.com/ashiqcvcv/chatapp_frontend"
       },{
           "title" : "OldSchool Home tuition",
           "category" : "MEAN Stack",
-          "image" : "oldschool.jpg",
+          "image" : "oldschool.JPG",
           "url" : "https://oldschoolhome.netlify.app/",
           "gitLink" : "https://github.com/ashiqcvcv/oldschoolfront_end"
       },{
