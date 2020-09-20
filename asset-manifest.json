@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ashiq/static/css/main.e4103c9a.chunk.css",
+    "main.js": "/ashiq/static/js/main.826f1ad0.chunk.js",
+    "main.js.map": "/ashiq/static/js/main.826f1ad0.chunk.js.map",
+    "runtime-main.js": "/ashiq/static/js/runtime-main.cfee30ad.js",
+    "runtime-main.js.map": "/ashiq/static/js/runtime-main.cfee30ad.js.map",
+    "static/js/2.c252989a.chunk.js": "/ashiq/static/js/2.c252989a.chunk.js",
+    "static/js/2.c252989a.chunk.js.map": "/ashiq/static/js/2.c252989a.chunk.js.map",
+    "index.html": "/ashiq/index.html",
+    "precache-manifest.c0cacc5d9d89dcae006e5f20226e3b02.js": "/ashiq/precache-manifest.c0cacc5d9d89dcae006e5f20226e3b02.js",
+    "service-worker.js": "/ashiq/service-worker.js",
+    "static/css/main.e4103c9a.chunk.css.map": "/ashiq/static/css/main.e4103c9a.chunk.css.map",
+    "static/js/2.c252989a.chunk.js.LICENSE.txt": "/ashiq/static/js/2.c252989a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfee30ad.js",
+    "static/js/2.c252989a.chunk.js",
+    "static/css/main.e4103c9a.chunk.css",
+    "static/js/main.826f1ad0.chunk.js"
+  ]
+}
