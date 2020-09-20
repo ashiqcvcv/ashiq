@@ -1,0 +1,74 @@
+.btn.btn-outline-pill.btn-custom-light {
+  color: #fff;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease; }
+  .btn.btn-outline-pill.btn-custom-light:hover, .btn.btn-outline-pill.btn-custom-light:active, .btn.btn-outline-pill.btn-custom-light:focus {
+    border-color: #fff; }
+.btn.btn-bg-white--hover:hover {
+  background-color: #fff;
+  color: #000; }
+
+.btn.btn-outline-pill.btn-custom-light {
+  color: #fff;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+}
+
+.btn.btn-outline-pill.btn-custom-light:hover, .btn.btn-outline-pill.btn-custom-light:active, .btn.btn-outline-pill.btn-custom-light:focus {
+  border-color: #fff;
+}
+
+.btn.btn-bg-white--hover:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.skill-bg{
+  background-color: #000;
+}
+.skillheading{
+  padding-top: 100px;
+  color: #fff;
+  padding-bottom: 40px;
+}
+
+.number-counter{
+  font-size: 69px;
+  font-weight: 900;
+  font-family: "Arimo", sans-serif;
+  color: #D63447;
+}
+
+.counter-v1 .number-wrap .append-text {
+  position: relative;
+  top: -30px;
+  font-size: 28px;
+  font-weight: 900;
+}
+
+.counter-v1 .number-wrap {
+  display: block;
+}
+
+.counter-v1 .counter-label {
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  font-size: 11px;
+  font-weight: 900;
+}
+
+.skillpad{
+  padding: 15px;
+}
