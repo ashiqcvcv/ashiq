@@ -128,7 +128,13 @@
           "image" : "cricket.jpg",
           "url" : "not a fullstack",
           "gitLink" : "https://github.com/ashiqcvcv/guvi/tree/master/2020_04_01"
-      }
+      },{
+        "title" : "Quiz App",
+        "category" : "React App using API",
+        "image" : "quizapp.JPG",
+        "url" : "https://ashiqcvcv.github.io/quiz-app/",
+        "gitLink" : "https://github.com/ashiqcvcv/quiz-app"
+    }
       ]
     }
   }
