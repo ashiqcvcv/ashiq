@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83a2811b2517f6283b77cae66569c4ae",
+    "revision": "08cf74cd7876299ccee551790ede487b",
     "url": "/ashiq/index.html"
   },
   {
-    "revision": "5ffea4af4dffa53ced96",
-    "url": "/ashiq/static/css/main.e4103c9a.chunk.css"
+    "revision": "e8dd8a97ed673341a446",
+    "url": "/ashiq/static/css/main.aa8bb0bc.chunk.css"
   },
   {
     "revision": "95c0a75fbbf20fd622fb",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ashiq/static/js/2.c252989a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ffea4af4dffa53ced96",
-    "url": "/ashiq/static/js/main.c121305e.chunk.js"
+    "revision": "e8dd8a97ed673341a446",
+    "url": "/ashiq/static/js/main.d1d0c384.chunk.js"
   },
   {
     "revision": "a9c8639a5a220b76961d",
