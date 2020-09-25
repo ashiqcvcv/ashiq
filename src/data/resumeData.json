@@ -136,7 +136,7 @@
         "gitLink" : "https://github.com/ashiqcvcv/quiz-app"
     },{
       "title" : "Todo App",
-      "category" : "React App using API",
+      "category" : "React App using LocalStorage",
       "image" : "todoapp.JPG",
       "url" : "https://ashiqstodo.netlify.app/",
       "gitLink" : "https://github.com/ashiqcvcv/todo-app"
