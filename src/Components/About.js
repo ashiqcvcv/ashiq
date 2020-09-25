@@ -25,7 +25,7 @@ export class About extends Component {
                             <div className="col-lg-7 mb-5 mb-lg-0 col-sm-12">
                                 <figure className="dotted-bg gsap-reveal-img ">
                                     <div className="three columns col-md-3">
-                                        <img className="profile-pic" src={profilepic} alt="Ashiq's photo" />
+                                        <img className="profile-pic" src={profilepic} />
                                     </div>
                                 </figure>
                             </div>
