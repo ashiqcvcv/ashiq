@@ -36,8 +36,8 @@ export class About extends Component {
                                     <span>{street}<br />
                                         {city} {state}, {zip}
                                     </span><br />
-                                    <span><a href="">{phone}</a></span><br />
-                                    <span><a href="">{email}</a></span></p>
+                                    <span><a>{phone}</a></span><br />
+                                    <span><a>{email}</a></span></p>
                                 <p className="gsap-reveal"><a href={resumeDownload} className="btn btn-outline-pill btn-custom-light">Download my CV</a></p>
                             </div>
                         </div>
