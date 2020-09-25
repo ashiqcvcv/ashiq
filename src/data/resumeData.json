@@ -134,7 +134,13 @@
         "image" : "quizapp.JPG",
         "url" : "https://ashiqcvcv.github.io/quiz-app/",
         "gitLink" : "https://github.com/ashiqcvcv/quiz-app"
-    }
+    },{
+      "title" : "Todo App",
+      "category" : "React App using API",
+      "image" : "todoapp.JPG",
+      "url" : "https://ashiqstodo.netlify.app/",
+      "gitLink" : "https://github.com/ashiqcvcv/todo-app"
+  }
       ]
     }
   }
