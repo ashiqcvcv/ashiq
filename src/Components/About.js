@@ -25,7 +25,7 @@ export class About extends Component {
                             <div className="col-lg-7 mb-5 mb-lg-0 col-sm-12">
                                 <figure className="dotted-bg gsap-reveal-img ">
                                     <div className="three columns col-md-3">
-                                        <img className="profile-pic" src={profilepic} />
+                                        <img className="profile-pic" src={profilepic} alt="ashiq"/>
                                     </div>
                                 </figure>
                             </div>
@@ -36,8 +36,8 @@ export class About extends Component {
                                     <span>{street}<br />
                                         {city} {state}, {zip}
                                     </span><br />
-                                    <span><a href="#">{phone}</a></span><br />
-                                    <span><a href="#">{email}</a></span></p>
+                                    <span><a href="">{phone}</a></span><br />
+                                    <span><a href="">{email}</a></span></p>
                                 <p className="gsap-reveal"><a href={resumeDownload} className="btn btn-outline-pill btn-custom-light">Download my CV</a></p>
                             </div>
                         </div>
