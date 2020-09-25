@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ashiq/static/css/main.aa8bb0bc.chunk.css",
-    "main.js": "/ashiq/static/js/main.d1d0c384.chunk.js",
-    "main.js.map": "/ashiq/static/js/main.d1d0c384.chunk.js.map",
+    "main.js": "/ashiq/static/js/main.9a6156ac.chunk.js",
+    "main.js.map": "/ashiq/static/js/main.9a6156ac.chunk.js.map",
     "runtime-main.js": "/ashiq/static/js/runtime-main.cfee30ad.js",
     "runtime-main.js.map": "/ashiq/static/js/runtime-main.cfee30ad.js.map",
     "static/js/2.c252989a.chunk.js": "/ashiq/static/js/2.c252989a.chunk.js",
     "static/js/2.c252989a.chunk.js.map": "/ashiq/static/js/2.c252989a.chunk.js.map",
     "index.html": "/ashiq/index.html",
-    "precache-manifest.2af107514f78bc2452691c186db0fdbb.js": "/ashiq/precache-manifest.2af107514f78bc2452691c186db0fdbb.js",
+    "precache-manifest.33fd6885cfb51e63c864652c81ad2abe.js": "/ashiq/precache-manifest.33fd6885cfb51e63c864652c81ad2abe.js",
     "service-worker.js": "/ashiq/service-worker.js",
     "static/css/main.aa8bb0bc.chunk.css.map": "/ashiq/static/css/main.aa8bb0bc.chunk.css.map",
     "static/js/2.c252989a.chunk.js.LICENSE.txt": "/ashiq/static/js/2.c252989a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cfee30ad.js",
     "static/js/2.c252989a.chunk.js",
     "static/css/main.aa8bb0bc.chunk.css",
-    "static/js/main.d1d0c384.chunk.js"
+    "static/js/main.9a6156ac.chunk.js"
   ]
 }
