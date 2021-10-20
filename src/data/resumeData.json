@@ -99,6 +99,12 @@
         {
           "name": "MongoDB",
           "level": "40"
+        }, {
+          "name": "Postgresql",
+          "level": "40"
+        }, {
+          "name": "SQL",
+          "level": "40"
         }
       ]
     },
