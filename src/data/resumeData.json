@@ -140,7 +140,13 @@
       "image" : "todoapp.JPG",
       "url" : "https://ashiqstodo.netlify.app/",
       "gitLink" : "https://github.com/ashiqcvcv/todo-app"
-  }
+  },{
+    "title" : "Gallery",
+    "category" : "React App using Redux",
+    "image" : "mobilegallery.JPG",
+    "url" : "https://diagnalworkshop.netlify.app/",
+    "gitLink" : "https://github.com/ashiqcvcv/diagnalfrontend"
+}
       ]
     }
   }
